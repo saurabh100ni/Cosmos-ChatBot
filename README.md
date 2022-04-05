@@ -12,7 +12,9 @@
 * Azure bot services
 
 **Azure Storage Services**: Azure storage Services are used to store files to make the web page functional and for static website functions.
+
 **Azure QnA Maker**: Azure QnA Maker to make the knowledge Base of Questions and answers.
+
 **Azure Bot Services**: Azure bot services is used in Cosmos-ChatBot to make the chat-bot interactive
 
 **Links To the Website :**
