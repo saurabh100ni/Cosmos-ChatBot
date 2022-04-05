@@ -15,7 +15,7 @@
 **Azure QnA Maker**: Azure QnA Maker to make the knowledge Base of Questions and answers.
 **Azure Bot Services**: Azure bot services is used in Cosmos-ChatBot to make the chat-bot interactive
 
-**Links To the Website : **
+**Links To the Website :**
 
 Hosted via Microsoft Azure : https://cosmoswebapp.z29.web.core.windows.net/
 
