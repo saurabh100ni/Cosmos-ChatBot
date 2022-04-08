@@ -17,6 +17,8 @@
 
 **Azure Bot Services**: Azure bot services is used in Cosmos-ChatBot to make the chat-bot interactive
 
+Note : the bot is taken down because it was costing money every day in azure
+
 **Links To the Website :**
 
 Hosted via Microsoft Azure : https://cosmoswebapp.z29.web.core.windows.net/
