@@ -20,7 +20,4 @@
 Note : the bot is taken down because it was costing money every day in azure
 
 **Links To the Website :**
-
-Hosted via Microsoft Azure : https://cosmoswebapp.z29.web.core.windows.net/
-
 Hosted via GitHub : https://saurabh100ni.github.io/cosmos-chatbot-live/
